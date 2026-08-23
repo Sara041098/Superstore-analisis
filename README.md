@@ -142,28 +142,27 @@ A partir de los patrones observados en los datos, se plantean las siguientes hip
 Estas recomendaciones deben interpretarse como **hipótesis de negocio derivadas del análisis de los datos** y no como conclusiones causales definitivas.
 
 
-## 🖼️ Vista previa
+## Visualizaciones
 
 ### Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard.PNG)
 
 ### Resumen general
 
-![Resumen general](images/resumen-general.png)
+![Resumen general](images/resumen-general.PNG)
 
-### Análisis por categoría (Furniture)
+### Análisis por categoría
 
-![Análisis por categoría](images/analisis-categoria.png)
+![Análisis por categoría](images/analisis-categoria.PNG)
 
 ### Análisis de clientes y beneficio
 
-![Análisis de clientes](images/analisis-clientes.png)
+![Análisis de clientes](images/analisis-clientes.PNG)
 
-### Análisis regional
+### Análisis por región
 
-![Análisis regional](images/analisis-regional.png)
-
+![Análisis por región](images/analisis-region.PNG)
 
 ## 📁 Archivo Power BI
 
